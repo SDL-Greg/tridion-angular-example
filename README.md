@@ -9,9 +9,10 @@ Run `ng serve` to see the app in action (try `npm start` in case `ng serve` fail
 
 # How to upgrade the CLI
 
-`npm uninstall -g angular-cli @angular/cli`
-`npm cache clean --force`
-`npm install -g @angular/cli`
+```npm uninstall -g angular-cli @angular/cli
+npm cache clean --force
+npm install -g @angular/cli
+```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
